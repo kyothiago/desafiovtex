@@ -1,0 +1,15 @@
+.listContainer {
+  background: #212121;
+  color: #4ED705;
+  justify-content: start;
+}
+
+.listItemActive :global(.vtex-button){
+  border:  none;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+.listItem{
+  font-size: 0.875rem;
+  font-weight: 500;
+}

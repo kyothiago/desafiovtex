@@ -1,0 +1,21 @@
+.sliderLayoutContainer {
+  background:#303030;
+}
+
+.sliderLeftArrow--carousel {
+  left: 27%;
+  color: #fff;
+  margin-bottom: initial;
+ }
+
+.sliderRightArrow--carousel {
+ right: 27%;
+ color: #fff;
+ margin-bottom: initial;
+}
+.paginationDot--carousel--isActive {
+  color: #4ED705;
+}
+.paginationDot--isActive {
+  color: #4ED705;
+}

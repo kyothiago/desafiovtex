@@ -1,0 +1,25 @@
+.searchBarContainer {
+  width: 1000px;
+}
+
+.searchBarContainer :global(.vtex-input-prefix__group) {
+	border: none;
+	border-radius: 0px;
+	border-bottom: 2px solid #4ED705;
+}
+
+.listPrice {
+  color: #FFFFFF;
+}
+
+.sellingPrice {
+	color: #FFFFFF;
+}
+
+.installmentsPrice {
+	color: #FFFFFF;
+}
+
+.imageElement {
+	border-radius: 20px;
+}
